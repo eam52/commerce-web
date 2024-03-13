@@ -7,7 +7,6 @@ Welcome to the E-Commerce Website Project repository! This project is aimed at c
 - [Introduction](#introduction)
 - [Features](#features)
 - [Usage](#usage)
-- [License](#license)
 
 ## Introduction
 
@@ -25,7 +24,5 @@ The E-Commerce Website Project is a web application designed to provide users wi
 
 To use the E-Commerce Website Project, simply access the website in your web browser. Browse through the product listings, add items to your shopping cart, and proceed to checkout to complete your purchase.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
